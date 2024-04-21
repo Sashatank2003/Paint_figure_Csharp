@@ -1,0 +1,38 @@
+D:\Study\5 sem\GP\lab4\LR4\bin\Debug\LR4.exe.config
+D:\Study\5 sem\GP\lab4\LR4\bin\Debug\LR4.exe
+D:\Study\5 sem\GP\lab4\LR4\bin\Debug\LR4.pdb
+D:\Study\5 sem\GP\lab4\LR4\bin\Debug\SharpGL.dll
+D:\Study\5 sem\GP\lab4\LR4\bin\Debug\SharpGL.SceneGraph.dll
+D:\Study\5 sem\GP\lab4\LR4\bin\Debug\SharpGL.WinForms.dll
+D:\Study\5 sem\GP\lab4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+D:\Study\5 sem\GP\lab4\LR4\obj\Debug\LR4.Form1.resources
+D:\Study\5 sem\GP\lab4\LR4\obj\Debug\LR4.Properties.Resources.resources
+D:\Study\5 sem\GP\lab4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+D:\Study\5 sem\GP\lab4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\Study\5 sem\GP\lab4\LR4\obj\Debug\LR4.csproj.CopyComplete
+D:\Study\5 sem\GP\lab4\LR4\obj\Debug\LR4.exe
+D:\Study\5 sem\GP\lab4\LR4\obj\Debug\LR4.pdb
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\bin\Debug\LR4.exe.config
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\bin\Debug\LR4.exe
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\bin\Debug\LR4.pdb
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.Form1.resources
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.csproj.CopyComplete
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.exe
+C:\Users\sasha\Desktop\Levkhov_LR4\VS_Solution\LR4\obj\Debug\LR4.pdb
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.csproj.SuggestedBindingRedirects.cache
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.Form1.resources
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.Properties.Resources.resources
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.exe
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.pdb
+D:\Ovcharenko_lr4\VS_Solution\LR4\bin\Debug\LR4.exe.config
+D:\Ovcharenko_lr4\VS_Solution\LR4\bin\Debug\LR4.exe
+D:\Ovcharenko_lr4\VS_Solution\LR4\bin\Debug\LR4.pdb
+D:\Ovcharenko_lr4\VS_Solution\LR4\obj\Debug\LR4.csproj.CopyComplete
